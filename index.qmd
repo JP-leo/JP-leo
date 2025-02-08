@@ -1,0 +1,12 @@
+---
+title: "Welcome to My Website"
+author: "Jiapei Li"
+date: "2025-02-08"
+format:
+  html:
+    theme: cosmo
+    toc: true
+---
+
+# Welcome to My Website 🎉
+This is my Quarto-powered website.
